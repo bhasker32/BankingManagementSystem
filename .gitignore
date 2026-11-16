@@ -1,0 +1,10 @@
+/target/
+/target-desktop/
+/.tools/
+/data/*
+!/data/accounts.txt
+!/data/transactions.txt
+*.class
+.idea/
+.vscode/
+*.iml
